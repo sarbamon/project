@@ -10,10 +10,7 @@ export default function Home() {
 
       <div className="main">
         <section id="about" className="about">
-          <h2>hello i am sarbamon and i am a developer</h2>
-          <body>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vitae adipisci blanditiis tempore culpa eius, facilis nihil ipsum ab. Consequatur ducimus, quod incidunt accusantium vitae alias quos natus sit veniam quidem!
-          </body>
+          <h2>hello i am sarbamon and i am a developer Lorem ipsum, dolor sit amet consectetur adipisicing elit. Provident, repellat et quos molestiae enim quasi, modi earum repudiandae deserunt, consequuntur totam dicta quibusdam autem quis hic quidem sunt. Dolorem, commodi!</h2>
         </section>
 
         <section id="porfolio" className="skils">
@@ -22,6 +19,7 @@ export default function Home() {
             <li>html</li>
             <li>css</li>
             <li>Javascript</li>
+            <li>python</li>
           </h2>
         </section>
       </div>
