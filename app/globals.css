@@ -1,3 +1,4 @@
+@import "tailwindcss";
 *{
   box-sizing: border-box;
 }
@@ -10,7 +11,7 @@ body{
 .navbar{
   display: flex;
   justify-content: center;
-  flex-wrap: wrap;
+  flex-wrap: wrap;  
   gap: 25px;
   margin-top: 20px;
 }
